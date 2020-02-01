@@ -1,0 +1,2 @@
+include ':app', ':ARtravel', ':VuforiaWrapper'
+rootProject.name='HackVSIT'
